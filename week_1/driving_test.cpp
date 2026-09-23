@@ -4,6 +4,8 @@ Name : Sammy Njuguna
 Reg No. : CT101/G/28858/25
 Course : CS
 Unit : OOP-I, SPC 2204
+Description: Identify if a student has passed a driving test
+Date : Sep 18 2026
 
 */
 
