@@ -1,3 +1,12 @@
+/*
+
+Name : Sammy Njuguna
+Reg No. : CT101/G/28858/25
+Course : CS
+Unit : OOP-I, SPC 2204
+
+*/
+
 #include<iostream>
 using namespace std;
 
