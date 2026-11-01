@@ -1,3 +1,9 @@
+/*
+Name : Sammy Njuguna
+Reg. no. : Sammy Njuguna
+Description :Library book management system using clases
+*/
+
 #include <iostream>
 #include <string>
 using namespace std;
