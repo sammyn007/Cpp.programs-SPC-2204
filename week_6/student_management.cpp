@@ -1,7 +1,7 @@
 /*
 Name : Sammy Njuguna
 Reg. no. : Sammy Njuguna
-Description :Library book management system using clases
+Description : student fees management system
 */
 
 #include <iostream>
